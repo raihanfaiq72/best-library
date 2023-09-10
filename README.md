@@ -27,6 +27,6 @@ Ready to explore the world of possibilities with our library application? [Get s
 
 ## Contact Us
 
-Have questions or need support? Feel free to reach out to our dedicated support team at [support@example.com](mailto:support@example.com). We're here to assist you on your library management journey.
+Have questions or need support? Feel free to reach out to our dedicated support team at [faiq.fhr03@gmail.com](mailto:developer). We're here to assist you on your library management journey.
 
 Enjoy the power of Laravel and unlock the potential of your library with our feature-rich application!
