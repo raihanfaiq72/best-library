@@ -1,24 +1,31 @@
+# This application was created by Faiq Raihan.
+
 # 📚 Library Application with Laravel: Unleashing a World of Possibilities
 
 ## Introduction
 
-Welcome to our cutting-edge library application powered by Laravel. We take pride in presenting a plethora of exciting features that make this library system stand out.
+Welcome to our cutting-edge library application powered by Laravel. I take immense pride in presenting a plethora of exciting features that make this library system stand out.
 
 ## Key Highlights
 
 ### 🚀 Features Galore
-Our library application is packed with an impressive array of features that cater to all your library management needs. From cataloging books to managing memberships, we've got you covered.
+
+This library application is packed with an impressive array of features that cater to all your library management needs. From cataloging books to managing memberships, we've got you covered.
 
 ### 💻 User-Friendly Interface
+
 We've designed a sleek and intuitive user interface that ensures a seamless experience for both administrators and library users. Say goodbye to clunky interfaces!
 
 ### 🌐 Scalability at Its Best
-Built on the robust Laravel framework, our application is highly scalable. Whether you're managing a small community library or a massive academic institution, our system can handle it with ease.
+
+Built on the robust Laravel framework, this application is highly scalable. Whether you're managing a small community library or a massive academic institution, our system can handle it with ease.
 
 ### 📊 Advanced Analytics
+
 Gain valuable insights into your library's performance with our advanced analytics tools. Make data-driven decisions and enhance your library's efficiency.
 
 ### 🔒 Security First
+
 We prioritize the security of your library data. Rest assured, your library's information is protected with the latest security protocols.
 
 ## Get Started
